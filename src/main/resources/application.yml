@@ -9,7 +9,7 @@ spring:
   application:
     name: USER-SERVICE
   datasource:
-    url: jdbc:mysql://localhost:3306/restaurantdb
+    url: jdbc:mysql://localhost:3306/usersdb
     password: root
     username: root
     driver-class-name: com.mysql.cj.jdbc.Driver
